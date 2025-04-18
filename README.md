@@ -18,6 +18,7 @@
     <img align="center" alt="GeoPandas" height="30" width="40" src="https://raw.githubusercontent.com/andreasplesch/styleguides/gh-pages/logos/geopandas.png">
 </div>
 
+
 ##
  
 <div> 
