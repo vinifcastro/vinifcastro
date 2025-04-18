@@ -1,4 +1,4 @@
-## Olá Tudo bem? Me chamo Vinicius Castro, atualmente sou estudante de programação em busca de oportunidades na área de desenvolvimento!
+## Olá Tudo bem? Me chamo Vinicius Castro, atualmente sou estudante de programação em busca de oportunidades na área de Data Science!
 
 <div style="display: flex; flex-direction: column; text-align: center; gap: 2em;">
 
