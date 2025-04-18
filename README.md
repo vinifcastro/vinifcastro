@@ -15,10 +15,8 @@
     <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
     <img align="center" alt="Scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
     <img align="center" alt="Folium" height="30" width="40" src="https://raw.githubusercontent.com/python-visualization/folium/main/docs/_static/folium_logo.png">
-    <img align="center" alt="GeoPandas" height="30" width="40" src="https://geopandas.org/en/stable/_images/logo.png](https://geopandas.org/en/latest/_images/geopandas_icon.png">
+    <img align="center" alt="GeoPandas" height="30" width="40" src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/_static/logo.png">
 </div>
-
-
 
 ##
  
