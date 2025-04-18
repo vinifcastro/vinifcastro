@@ -15,9 +15,16 @@
     <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
     <img align="center" alt="Scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
     <img align="center" alt="Folium" height="30" width="40" src="https://raw.githubusercontent.com/python-visualization/folium/main/docs/_static/folium_logo.png">
-    <img align="center" alt="GeoPandas" height="30" width="40" src="./geopandas_icon.webp">
+    <img align="center" alt="GeoPandas" height="30" width="40" src="./assets/geopandas_icon.webp">
+    <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+    <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="React.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-
 
 ##
  
