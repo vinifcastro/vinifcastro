@@ -11,12 +11,13 @@
     <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Numpy" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
     <img align="center" alt="Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-    <img align="center" alt="Matplotlib" height="30" width="40" src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg">
+    <img align="center" alt="Matplotlib" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
     <img align="center" alt="Seaborn" height="30" width="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">
     <img align="center" alt="Scikit-learn" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
     <img align="center" alt="Folium" height="30" width="40" src="https://raw.githubusercontent.com/python-visualization/folium/main/docs/_static/folium_logo.png">
-    <img align="center" alt="GeoPandas" height="30" width="40" src="https://geopandas.org/en/stable/_static/logo.png">
+    <img align="center" alt="GeoPandas" height="30" width="40" src="https://raw.githubusercontent.com/geopandas/geopandas/main/doc/_static/logo.png">
 </div>
+
 
 ##
  
